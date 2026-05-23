@@ -45,7 +45,7 @@ cp SKILL.md ~/.claude/skills/jiang-nan-perspective/SKILL.md
 ### 方法二：Git Clone
 
 ```bash
-git clone https://github.com/swu586115-blip/jiang-nan-perspective.git %USERPROFILE%\.claude\skills\jiang-nan-perspective
+git clone https://github.com/Carl24-star/jiang-nan-perspective.git %USERPROFILE%\.claude\skills\jiang-nan-perspective
 ```
 
 ## 调研方法
