@@ -1,0 +1,7 @@
+# Temporary files
+*.tmp
+repo-create.json
+
+# OS files
+.DS_Store
+Thumbs.db
